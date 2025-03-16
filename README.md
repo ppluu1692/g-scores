@@ -79,7 +79,6 @@ docker run --network gscore_network --name vue-frontend -dp 5173:5173 frontend
 ```
 
 ## 3. Features
-### Done
 - [ ✔ ] Conversion of raw data into the database must be coded and located in this source code 
 - [ ✔ ] Check score from registration number input  
 - [ ✔ ] Statistics of the number of students with scores in the above 4 levels by subjects
@@ -87,8 +86,6 @@ docker run --network gscore_network --name vue-frontend -dp 5173:5173 frontend
 - [ ✔ ] Responsive design
 - [ ✔ ] Setup project use Docker
 
-### Not Done
-- [ ✖ ] Deploy the application to go live
 
 ## 4. Technical details
 - **Database**: PostgreSQL
